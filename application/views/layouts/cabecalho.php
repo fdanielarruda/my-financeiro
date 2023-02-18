@@ -58,6 +58,14 @@ defined('BASEPATH') or exit('No direct script access allowed');
                 </a>
             </li>
 
+            <!-- Nav Item - Tables -->
+            <li class="nav-item">
+                <a class="nav-link" href="<?php echo site_url('banco'); ?>">
+                    <i class="fas fa-database"></i>
+                    <span>Banco</span>
+                </a>
+            </li>
+            
             <!-- Divider -->
             <hr class="sidebar-divider d-none d-md-block">
 
